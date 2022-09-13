@@ -50,7 +50,7 @@ public class Main {
             System.out.println("Go");
         else
             System.out.println("Stop");
-
+        //a comment
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Input number between 1 and 12");
